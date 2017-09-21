@@ -4,9 +4,9 @@ const router = new Router();
 const product = require('./model/product/router');
 
 router.route('/').get((req, res) => {
-  res.json({ message: 'Welcome to projectproductmanagement-api API!' });
+  res.json({ message: 'Welcome to Project Product Managment API!' });
 });
 
-router.use('/product', product);
+router.use('/products', product);
 
 module.exports = router;
