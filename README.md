@@ -1,4 +1,4 @@
-# projectproductmanagement-api
+# exam-api
 
 [![generator-api](https://img.shields.io/badge/built%20with-generator--api-green.svg)](https://github.com/ndelvalle/generator-api)
 
@@ -24,7 +24,7 @@ run the app:
 npm run dev
 ```
 
-the app runs on `localhost:8080`
+the app runs on `localhost:8090`
 
 ## production
 
